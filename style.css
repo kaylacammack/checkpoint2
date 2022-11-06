@@ -1,0 +1,9 @@
+body {
+    background-image: url("space.jfif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.moon-image {
+    height: 65vh;
+}
